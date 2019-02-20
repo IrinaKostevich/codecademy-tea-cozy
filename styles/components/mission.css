@@ -1,0 +1,10 @@
+.mission {
+    padding-top: 70px;
+    height: 700px;
+    background-image: url('../../images/img-mission-background.jpg');
+}
+
+.mission .mission-text {
+    width: 100%;
+    background-color: black;
+}

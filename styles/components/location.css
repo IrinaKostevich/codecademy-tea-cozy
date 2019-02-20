@@ -1,0 +1,21 @@
+.location {
+    padding-top: 70px;
+    height: 500px;
+    background-image: url('../../images/img-locations-background.jpg');
+}
+
+.location .location-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 20px;
+    padding: 10px;
+    width: 280px;
+    opacity: 1;
+    background-color: black;
+}
+
+.location .location-card span {
+    padding: 22px 0;
+}

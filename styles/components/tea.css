@@ -1,0 +1,19 @@
+.tea {
+    padding: 70px 100px 0 100px;
+    height: 700px;
+}
+
+.tea .tea-card {
+    padding: 10px 15px;
+}
+
+.tea .tea-card img {
+    margin-bottom: 10px;
+    width: 300px;
+    height: 200px;
+}
+
+.tea .tea-card span {
+    display: block;
+    font-weight: bold;
+}

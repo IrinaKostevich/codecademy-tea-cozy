@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+    padding: 0 10px;
+    height: 69px;
+    background-color: black;
+    border-bottom: 1px solid seashell;
+}
+
+.header .logo {
+    height: 50px;
+    margin-right: 12px;
+}

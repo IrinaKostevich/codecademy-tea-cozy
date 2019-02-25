@@ -1,0 +1,10 @@
+.tea-card img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.tea-card .tea-card-title {
+    display: block;
+    font-weight: bold;
+}

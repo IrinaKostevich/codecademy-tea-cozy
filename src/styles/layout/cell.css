@@ -1,5 +1,11 @@
-.l-cell {
+.l-cell--large {
     width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.l-cell--small {
+    width: 1000px;
     margin-right: auto;
     margin-left: auto;
 }

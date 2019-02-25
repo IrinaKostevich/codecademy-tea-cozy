@@ -1,13 +1,13 @@
-.contacts {
+.contacts-area {
     height: 200px;
 }
 
-.contacts address > * {
+.contacts-area .contacts-area-address {
     margin: 30px 0;
     font-style: normal;
 }
 
-.contacts address a {
+.contacts-area .contacts-area-address a {
     text-decoration: none;
     color: inherit;
 }

@@ -1,0 +1,16 @@
+.location-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+    padding: 10px;
+    margin: 5px 20px;
+    opacity: 1;
+    background-color: black;
+}
+
+.location-card .location-card-address > * {
+    display: block;
+    padding: 22px 0;
+}

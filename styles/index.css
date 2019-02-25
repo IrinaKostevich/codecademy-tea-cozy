@@ -1,38 +1,17 @@
-@import './components/contacts.css';
+@import './base/base.css';
+
+@import './components/contacts-area.css';
+@import './components/content.css';
 @import './components/footer.css';
 @import './components/header.css';
-@import './components/location.css';
-@import './components/mission.css';
+@import './components/location-area.css';
+@import './components/location-card.css';
+@import './components/mission-area.css';
 @import './components/nav-list.css';
-@import './components/tea.css';
+@import './components/tea-area.css';
+@import './components/tea-card.css';
 
 @import './layout/cell.css';
-@import './layout/flex-container.css';
+@import './layout/location-card-collection.css';
 @import './layout/sticky.css';
-
-/* Reset default padding and margin */
-
-* {
-    margin: 0;
-    padding: 0;
-}
-
-/* General rules */
-
-h2,
-h3,
-h4 {
-    padding: 10px;
-}
-
-body {
-    font-family: Helvetica;
-    font-size: 22px;
-    background-color: black;
-    color: seashell;
-}
-
-main {
-    opacity: 0.9;
-    text-align: center;
-}
+@import './layout/tea-card-collection.css';

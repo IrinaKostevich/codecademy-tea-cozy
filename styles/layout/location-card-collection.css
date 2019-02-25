@@ -1,6 +1,10 @@
-.l-flex-container {
+.l-location-card-collection {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+}
+
+.l-location-card-collection > * {
+    margin: 5px 20px;
 }

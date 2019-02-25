@@ -10,7 +10,12 @@
     background-color: black;
 }
 
+.location-card .location-card-address {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
 .location-card .location-card-address > * {
-    display: block;
-    padding: 22px 0;
+    margin: 22px 0;
 }

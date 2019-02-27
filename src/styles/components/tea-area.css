@@ -1,4 +1,7 @@
 .tea-area {
-    height: 700px;
+    height: 770px;
     padding-top: 70px;
 }
+ .tea-area .tea-area-text {
+    font-weight: bold;
+ }

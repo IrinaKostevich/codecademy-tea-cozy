@@ -4,8 +4,9 @@
 
 .contacts-area .contacts-area-address {
     display: block;
-    margin: 30px 0;
+    font-size: 0.83em;
     font-style: normal;
+    font-weight: bold;
 }
 
 .contacts-area .contacts-area-address a {

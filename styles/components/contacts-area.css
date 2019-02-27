@@ -3,6 +3,7 @@
 }
 
 .contacts-area .contacts-area-address {
+    display: block;
     margin: 30px 0;
     font-style: normal;
 }

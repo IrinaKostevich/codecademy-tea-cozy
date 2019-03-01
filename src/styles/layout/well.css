@@ -1,7 +1,7 @@
-.l-well--small {
-    margin: 10px 0;
+.l-well--sm {
+    margin: 0.5rem 0;
 }
 
-.l-well--large {
-    margin: 30px 0;
+.l-well--lg {
+    margin: 1.25rem 0;
 }

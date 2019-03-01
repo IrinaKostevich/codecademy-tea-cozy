@@ -5,10 +5,24 @@
 }
 
 .nav-list .nav-list-item {
-    padding: 0 10px;
+    padding: 0 0.5rem;
 }
 
 .nav-list .nav-list-item a {
     color: seashell;
     text-decoration: underline;
+}
+
+.nav-list.nav-list--mobile .nav-list-item {
+    display: none;
+}
+
+@media only screen and (max-width: 560px) {
+    .nav-list .nav-list-item {
+       display: none;
+    }
+    
+    .nav-list.nav-list--mobile .nav-list-item {
+        display: inline;
+    }
 }

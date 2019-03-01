@@ -1,5 +1,8 @@
 .location-area {
-    height: 570px;
-    padding-top: 70px;
+    min-height: 26rem;
+    padding-top: 3rem;
     background-image: url('../../images/img-locations-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
 }

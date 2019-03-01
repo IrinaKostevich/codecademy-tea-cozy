@@ -2,12 +2,11 @@
     display: flex;
     justify-content: space-between;
     align-items: center;   
-    height: 69px;
-    padding: 0 10px;
+    height: 3rem;
+    padding: 0 0.5rem;
     border-bottom: 1px solid seashell;
     z-index: 1;
     background-color: black;
-    
 }
 
 .header .header-logo {
